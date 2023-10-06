@@ -1,2 +1,2 @@
 console.log('Hello Git!')
-console.log('Merge Main')
+console.log('Merge main')
